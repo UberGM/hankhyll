@@ -1,0 +1,11 @@
+title: "Redux"
+description: none
+baseurl: ""
+url: "https://hankhyll-ubergm.c9.io"
+
+email: email@email.com
+twitter_username: tweeter
+github_username: gethub
+
+markdown: kramdown
+includeFooter: true
